@@ -2,6 +2,13 @@
 
 This is a Stock Management application built using Flutter and Riverpod. The app displays a list of stock items with pagination, allowing the user to load more items as they scroll. Each item is displayed inside a card with padding and includes the quantity, name, and producer. The app supports keyboard navigation and item selection, highlighting the selected item.
 
+## Screenshots
+<a href="https://ibb.co/4s8QqRL"><img src="https://i.ibb.co/8zrhCgw/Screenshot-2024-06-22-at-22-27-22.png" alt="Screenshot-2024-06-22-at-22-27-22" border="0" width=300></a>
+<a href="https://ibb.co/0jT5Ww0"><img src="https://i.ibb.co/fYfJKc3/Screenshot-2024-06-22-at-22-27-31.png" alt="Screenshot-2024-06-22-at-22-27-31" border="0" width=300></a>
+<a href="https://ibb.co/9wcDb0f"><img src="https://i.ibb.co/5YG0r3z/Screenshot-2024-06-22-at-22-27-41.png" alt="Screenshot-2024-06-22-at-22-27-41" border="0" width=300></a>
+##
+https://github.com/Muhammadumar2502/Test_stock_viewer/assets/86619302/dd1be754-05ff-41b7-840d-17921f7deeab
+
 ## Features
 
 - **Pagination**: Items are loaded in batches of 50, with new items loaded as the user scrolls.
